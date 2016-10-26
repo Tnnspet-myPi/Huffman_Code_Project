@@ -45,3 +45,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.classpath
+.settings/org.eclipse.jdt.core.prefs
+.project
+bin/huffman_project/Huffman.class
+bin/huffman_project/Node.class
+bin/huffman_project/NodeComparator.class
+bin/huffman_project/Process_Input.class
