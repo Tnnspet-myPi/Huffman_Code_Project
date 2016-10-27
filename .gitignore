@@ -52,3 +52,6 @@ bin/huffman_project/Huffman.class
 bin/huffman_project/Node.class
 bin/huffman_project/NodeComparator.class
 bin/huffman_project/Process_Input.class
+bin/huffman_project/NodeComparatorGreaterThan.class
+bin/huffman_project/NodeComparatorLessThan.class
+outfile.dat

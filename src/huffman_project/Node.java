@@ -6,6 +6,7 @@ public class Node
   Integer frequency;
   Node    left_node;
   Node    right_node;
+  String  code;
   
   public Node()
   {
