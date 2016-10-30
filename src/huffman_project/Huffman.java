@@ -18,7 +18,6 @@ public class Huffman
 {
   // Global Variables
   Double overall_count = 0.0;
-  
 
   /*---------------------------------------------------------*/
   /* Function Name: Huffman                                  */
@@ -63,8 +62,7 @@ public class Huffman
     Generate_Node_Codes(root_node, map, "");
     out       += Print_Node_Codes_And_Count(map);
     
-    // Debug print to console remove before submittal
-    System.out.println(out);
+    // Return final string to be printed
     return out;
   } /* End Compress function */
   

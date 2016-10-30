@@ -44,4 +44,3 @@ public class Process_Input
     writer.close();
   } /* End main function */
 } /* End Class Process_Input */
-
