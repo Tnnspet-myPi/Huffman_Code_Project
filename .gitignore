@@ -55,3 +55,5 @@ bin/huffman_project/Process_Input.class
 bin/huffman_project/NodeComparatorGreaterThan.class
 bin/huffman_project/NodeComparatorLessThan.class
 outfile.dat
+bin/huffman_project/Node_Comparator_Greater_Than.class
+bin/huffman_project/Node_Comparator_Less_Than.class
