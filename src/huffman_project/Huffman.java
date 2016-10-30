@@ -105,7 +105,7 @@ public class Huffman
       }
     } /* End for loop */
     
-    // Return the char frequencey mapping */
+    // Return the char frequency mapping */
     return map;
   }/* End Get_Char_Freq function */
 
